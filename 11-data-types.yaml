@@ -5,7 +5,7 @@
     Tools: #list
     - Linux
     - Shell
-    - ansible
+    - Ansible
     Experience: # map or  dictionary
       Devops: 3 # number
       AWS: 2
